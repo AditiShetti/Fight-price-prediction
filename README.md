@@ -6,6 +6,7 @@
 The objective of this project was to predict flight prices based on various features such as airline, source and destination cities, class of service, duration,etc.    
 
 ![image](https://github.com/user-attachments/assets/e4e2f58b-9f7d-4d37-9abd-f735f4936060)
+![image](https://github.com/user-attachments/assets/eebe7bec-8ae1-4d3f-9766-8ffe1dea1648)
 
 
 ## **Model Used:**  
@@ -41,3 +42,7 @@ mean_absolute_error : ***1389.90***
 **Matplotlib**: For data visualisation  
 **Seaborn**: For data visualisation    
 **Sklearn**: For importing train_test_split and ML models  
+
+
+# For any questions or feedback, feel free to reach out at Aditishetti9060@gmail.com😊
+
