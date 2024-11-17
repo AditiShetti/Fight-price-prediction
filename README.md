@@ -1,5 +1,5 @@
-# Fight-price-prediction
-## **✈️ Flight Price Prediction**  
+# ✈️ Fight-price-prediction
+ ** Flight Price Prediction**  
 
 
 ## **Overview**  
