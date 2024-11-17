@@ -2,16 +2,16 @@
 **✈️ Flight Price Prediction**  
 
 
-#**Overview**  
+## **Overview**  
 The objective of this project was to predict flight prices based on various features such as airline, source and destination cities, class of service, duration,etc.    
 
 ![image](https://github.com/user-attachments/assets/e4e2f58b-9f7d-4d37-9abd-f735f4936060)
 
 
-#**Model Used:**  
+## **Model Used:**  
 Random Forest : RandomForestRegressor from sklearn    
 
-#**Dataset**   
+## **Dataset**   
 This dataset is sourced from Kaggle.     
 It has 300153 rows and 12 columns.  
   
@@ -28,14 +28,14 @@ It has 300153 rows and 12 columns.
 📅 days_left: Number of days left for the flight from the date of booking.  
 💵 price: Ticket price in rupees.  
 
-#**Model Evaluation:**  
+## **Model Evaluation:**  
 Model was evaluated using mean_absolute_error and r2_score from sklearn 
 
-#**Model Performance:**  
+## **Model Performance:**  
 r2_score : **0.98**  
 mean_absolute_error : **1389.90**  
  
-#**Tools Used**:    
+## **Tools Used**:    
 Pandas: For data manipulation and analysis.  
 Numpy: For data manipulation and analysis  
 Matplotlib: For data visualisation  
