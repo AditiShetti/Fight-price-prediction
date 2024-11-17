@@ -6,6 +6,8 @@
 The objective of this project was to predict flight prices based on various features such as airline, source and destination cities, class of service, duration,etc.    
 
 
+<img src="https://github.com/user-attachments/assets/3a8c74c0-3350-4932-93a2-8938dea5658c" alt="plane image" width="100%" />
+
 ![plane image](https://github.com/user-attachments/assets/3a8c74c0-3350-4932-93a2-8938dea5658c)
 
 
