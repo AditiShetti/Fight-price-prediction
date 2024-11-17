@@ -43,5 +43,5 @@ mean_absolute_error : ***1389.90***
 **Sklearn**: For importing train_test_split and ML models  
 
 
-# For any questions or feedback, feel free to reach out at Aditishetti9060@gmail.com😊
+**For any questions or feedback, feel free to reach out at Aditishetti9060@gmail.com😊**
 
