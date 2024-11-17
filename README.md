@@ -5,7 +5,8 @@
 #**Overview**
 The objective of this project was to predict flight prices based on various features such as airline, source and destination cities, class of service, duration,etc.  
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fclassroomclipart.com%2Fimage%2Fvector-clipart%2Fpassenger-plane-taking-off-from-the-city-skyline-59868.htm&psig=AOvVaw0eoxIQSaPUSfqjUCmu_AW8&ust=1731941433871000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLj2-ebO44kDFQAAAAAdAAAAABAE
+![image](https://github.com/user-attachments/assets/e4e2f58b-9f7d-4d37-9abd-f735f4936060)
+
 
 #**Model Used:**
 Random Forest : RandomForestRegressor from sklearn  
