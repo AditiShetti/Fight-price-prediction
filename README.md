@@ -9,7 +9,7 @@ The objective of this project was to predict flight prices based on various feat
 
 
 ## **Model Used:**  
-Random Forest : **RandomForestRegressor** from sklearn    
+Random Forest : ***RandomForestRegressor*** from sklearn    
 
 ## **Dataset**   
 This dataset is sourced from Kaggle.     
@@ -29,15 +29,15 @@ It has 300153 rows and 12 columns.
 💵 **price**: Ticket price in rupees.  
 
 ## **Model Evaluation:**  
-Model was evaluated using **mean_absolute_error** and **r2_score** from sklearn 
+Model was evaluated using ***mean_absolute_error*** and ***r2_score*** from sklearn 
 
 ## **Model Performance:**  
-r2_score : **0.98**  
-mean_absolute_error : **1389.90**  
+r2_score : ***0.98***  
+mean_absolute_error : ***1389.90***  
  
 ## **Tools Used**:    
-Pandas: For data manipulation and analysis.  
-Numpy: For data manipulation and analysis  
-Matplotlib: For data visualisation  
-Seaborn: For data visualisation    
-Sklearn: For importing train_test_split and ML models  
+**Pandas**: For data manipulation and analysis.  
+**Numpy**: For data manipulation and analysis  
+**Matplotlib**: For data visualisation  
+**Seaborn**: For data visualisation    
+**Sklearn**: For importing train_test_split and ML models  
