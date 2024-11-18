@@ -28,6 +28,10 @@ It has 300153 rows and 12 columns.
 📅 **days_left**: Number of days left for the flight from the date of booking.  
 💵 **price**: Ticket price in rupees.  
 
+
+![Summary Flight price pred](https://github.com/user-attachments/assets/5fee6191-5bd9-4312-944b-f9d7c53fe953)
+
+
 ## **Model Evaluation:**  
 Model was evaluated using ***mean_absolute_error*** and ***r2_score*** from sklearn 
 
