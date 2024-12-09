@@ -2,7 +2,8 @@
 
 
 ## **Overview**  
-The objective of this project was to predict flight prices based on various features such as airline, source and destination cities, class of service, duration,etc.    
+The objective of this project was to predict flight prices based on various features such as airline, source and destination cities, class of service, duration,etc.  
+An Excel dashboard was also made to showcase an of the dataset.  
 
 
 <img src="https://github.com/user-attachments/assets/3a8c74c0-3350-4932-93a2-8938dea5658c" alt="plane image" width="95%" />
@@ -45,6 +46,7 @@ mean_absolute_error : ***1389.90***
 **Matplotlib**: For data visualisation  
 **Seaborn**: For data visualisation    
 **Sklearn**: For importing train_test_split and ML models  
+**Excel**: To make a dashnoard.  
 
 
 **For any questions or feedback, feel free to reach out at Aditishetti9060@gmail.com😊**
