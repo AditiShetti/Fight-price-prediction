@@ -32,6 +32,10 @@ It has 300153 rows and 12 columns.
 
 ![Summary Flight price pred](https://github.com/user-attachments/assets/5fee6191-5bd9-4312-944b-f9d7c53fe953)
 
+## ** Excel dashboard for overview of dataset:**  
+
+![Flight Price dashboard](https://github.com/user-attachments/assets/f2a8afbc-8cdb-45d3-b9da-21eecab8e47f)
+
 
 ## **Model Evaluation:**  
 Model was evaluated using ***mean_absolute_error*** and ***r2_score*** from sklearn 
