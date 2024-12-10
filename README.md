@@ -3,7 +3,7 @@
 
 ## **Overview**  
 The objective of this project was to predict flight prices based on various features such as airline, source and destination cities, class of service, duration,etc.  
-An Excel dashboard was also made to showcase an of the dataset.  
+An Excel dashboard was also made to showcase an overview of the dataset.  
 
 
 <img src="https://github.com/user-attachments/assets/3a8c74c0-3350-4932-93a2-8938dea5658c" alt="plane image" width="95%" />
@@ -33,8 +33,8 @@ It has 300153 rows and 12 columns.
 ![Summary Flight price pred](https://github.com/user-attachments/assets/5fee6191-5bd9-4312-944b-f9d7c53fe953)
 
 ## **Excel dashboard for overview of dataset:**  
+![Flight Price dashboard](https://github.com/user-attachments/assets/77a777b9-db9b-4738-aa1c-e653458b2c49)
 
-![Flight Price dashboard](https://github.com/user-attachments/assets/f2a8afbc-8cdb-45d3-b9da-21eecab8e47f)
 
 
 ## **Model Evaluation:**  
