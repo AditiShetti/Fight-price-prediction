@@ -50,7 +50,7 @@ mean_absolute_error : ***1389.90***
 **Matplotlib**: For data visualisation  
 **Seaborn**: For data visualisation    
 **Sklearn**: For importing train_test_split and ML models  
-**Excel**: To make a dashnoard.  
+**Excel**: To make a dashboard.  
 
 
 **For any questions or feedback, feel free to reach out at Aditishetti9060@gmail.com😊**
