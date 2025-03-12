@@ -3,7 +3,7 @@
 
 ## **Overview**  
 The objective of this project was to predict flight prices based on various features such as airline, source and destination cities, class of service, duration,etc.  
-An Excel dashboard was also made to showcase an overview of the dataset.  
+ An Excel dashboard was also made to showcase an overview of the dataset.  
 
 
 <img src="https://github.com/user-attachments/assets/3a8c74c0-3350-4932-93a2-8938dea5658c" alt="plane image" width="95%" />
@@ -26,7 +26,7 @@ It has 300153 rows and 12 columns.
 🏙️ **destination_city**: City where the flight lands.  
 💺 **class**: Travel class (Economy, Business, etc.).  
 ⏳ **duration**: Total flight duration in hours and minutes.  
-📅 **days_left**: Number of days left for the flight from the date of booking.  
+📅 **days_left**: Number of days left for the flight from the date of booking.    
 💵 **price**: Ticket price in rupees.  
 
 
